@@ -1,0 +1,11 @@
+
+<suite name="ORANGE-HRM">
+    <test name="Regression">
+         <classes>
+             <class name="com.pom_testcases.pom_homepageTest"/>
+             <class name="com.pom_testcases.pom_loginpageTest"/>
+             <class name="com.pom_testcases.pom_adminPageTest"/>
+             <class name="com.pom_testcases.pom_adminPanelpageTest"/>
+          </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->

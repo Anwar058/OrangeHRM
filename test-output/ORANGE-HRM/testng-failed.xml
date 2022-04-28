@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ORANGE-HRM]">
+  <test thread-count="5" name="Regression(failed)">
+    <classes>
+      <class name="com.pom_testcases.pom_adminPanelpageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="dlt_bt"/>
+        </methods>
+      </class> <!-- com.pom_testcases.pom_adminPanelpageTest -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [ORANGE-HRM] -->
