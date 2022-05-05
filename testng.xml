@@ -7,5 +7,6 @@
              <class name="com.pom_testcases.pom_adminPageTest"/>
              <class name="com.pom_testcases.pom_adminPanelpageTest"/>
           </classes>
+          
      </test> <!-- Test -->
 </suite> <!-- Suite -->
